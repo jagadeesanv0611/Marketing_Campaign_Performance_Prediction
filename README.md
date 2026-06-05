@@ -2,10 +2,20 @@
 Multi-Brand Marketing Campaign Performance Analysis and Prediction
 
 # Project Overview:
-The Project aim is to predict **Revenue** and **Profit / Loss** for marketing campaigns using Machine Learning.
+The project aim is to focus on analyze and predict the performance of marketing campaigns across multiple brands such as Nykaa, Purplle, and Tira using Machine Learning.
 
 # Objectives:
 The objective of this project is to design and implement a Marketing Campaign Performance Prediction System that follows the complete machine learning lifecycle:
+     - Data collection
+     - Data Cleaning & Preprocessing
+     - Exploratory data Analysis (EDA)
+     - Feature Engineering
+     - Model Building
+     - Model Evaluation
+
+# Data Collection:
+   - chab 
+
 1.	Data Collection:
      -   Loading the datasets into python using pandas Dataframe.
 2.	Data Cleaning & Preprocessing:
