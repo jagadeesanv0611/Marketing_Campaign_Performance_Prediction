@@ -60,9 +60,9 @@ Model evaluation is the process of measuring how well the machine learning model
 # Dataset:
 -  Source : Marketing Campaign Performance Prediction Datasets:
 -  Dataset Files
-               nykaa_campaign_data_with_nulls.csv
-               purplle_campaign_data_with_nulls.csv
-               tira_campaign_data_with_nulls.csv
+-  nykaa_campaign_data_with_nulls.csv
+-  purplle_campaign_data_with_nulls.csv
+-  tira_campaign_data_with_nulls.csv
 
 
 
