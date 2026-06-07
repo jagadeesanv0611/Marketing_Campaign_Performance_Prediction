@@ -81,7 +81,8 @@ Gradient Boost:
 - It is used  for both classification and regression tasks.
 
 Evaluate regression models using RMSE, MAE, R², MSE:
-Mean Absolute Error (MAE):
+
+**Mean Absolute Error (MAE):**
 - Average of absolute differences between actual and predicted values.
 <img width="472" height="327" alt="image" src="https://github.com/user-attachments/assets/0120d791-09ee-41b8-b9df-388b81c1a9f5" />
 
