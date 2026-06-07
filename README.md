@@ -137,6 +137,7 @@ Model evaluation is the process of measuring how well the machine learning model
 - It is calculated by plotting the true positive rate against the false positive rate at different classification thresholds and calculating the area under the curve.
   <img width="192" height="73" alt="image" src="https://github.com/user-attachments/assets/7fed2759-8d7c-4955-aa50-032f89fa8058" />
   <img width="195" height="78" alt="image" src="https://github.com/user-attachments/assets/5bd944d6-5b6f-48ba-8be1-acda090acaaa" />
+  
   <img width="442" height="157" alt="image" src="https://github.com/user-attachments/assets/7fddbb49-3297-432b-852b-9818e80a7a3a" />
 
 **Classification Model Performance:**
