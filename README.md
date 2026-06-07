@@ -1,4 +1,4 @@
-<img width="472" height="327" alt="image" src="https://github.com/user-attachments/assets/4c9f7d35-5fa2-42e5-ba05-4257e5f6daf4" /># Project Title:
+# Project Title:
 Multi-Brand Marketing Campaign Performance Analysis and Prediction
 
 # Project Overview:
