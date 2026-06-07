@@ -140,7 +140,8 @@ Model evaluation is the process of measuring how well the machine learning model
   <img width="442" height="157" alt="image" src="https://github.com/user-attachments/assets/7fddbb49-3297-432b-852b-9818e80a7a3a" />
 
 **Classification Model Performance:**
-<img width="1560" height="145" alt="image" src="https://github.com/user-attachments/assets/715d602a-5eba-4a1b-8885-0eeffd4cf4c3" />
+  <img width="1719" height="157" alt="image" src="https://github.com/user-attachments/assets/89830899-1e63-4cbd-8f14-7aa4cca45512" />
+
 
 
 
