@@ -85,13 +85,13 @@ Model evaluation is the process of measuring how well the machine learning model
 **Mean Absolute Error (MAE):**
 - Average of absolute differences between actual and predicted values.
 - Difference between actual and predicted values is Residuals.
-<img width="396" height="287" alt="image" src="https://github.com/user-attachments/assets/9258db4b-fdcd-4b7b-9edc-794df9c80728" />
+- <img width="396" height="287" alt="image" src="https://github.com/user-attachments/assets/9258db4b-fdcd-4b7b-9edc-794df9c80728" />
 
 
 
 **Mean Square Error (MSE):**
 - Average of squared differences between actual and predicted values.
-<img width="356" height="277" alt="image" src="https://github.com/user-attachments/assets/44e5d1d6-7bf4-449b-b7ea-a3364cd04dd4" />
+- <img width="356" height="277" alt="image" src="https://github.com/user-attachments/assets/44e5d1d6-7bf4-449b-b7ea-a3364cd04dd4" />
 
 
 
