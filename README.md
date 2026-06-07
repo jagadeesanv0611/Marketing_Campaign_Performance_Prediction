@@ -88,11 +88,9 @@ Model evaluation is the process of measuring how well the machine learning model
 - <img width="396" height="287" alt="image" src="https://github.com/user-attachments/assets/9258db4b-fdcd-4b7b-9edc-794df9c80728" />
 
 
-
 **Mean Square Error (MSE):**
 - Average of squared differences between actual and predicted values.
 - <img width="356" height="277" alt="image" src="https://github.com/user-attachments/assets/44e5d1d6-7bf4-449b-b7ea-a3364cd04dd4" />
-
 
 
 **Root Mean Square Error (RMSE):**
@@ -104,13 +102,11 @@ Model evaluation is the process of measuring how well the machine learning model
 **R^2 Score:**
 - R-squared represents the proportion of variance in the target variable that is explained by the regression model.
 - It is a statistical measure that tells you how well a model explains and predicts future outcomes.
-<img width="432" height="272" alt="image" src="https://github.com/user-attachments/assets/4510ab90-362b-43bd-a69b-348b9a859ca2" />
-
+- <img width="432" height="272" alt="image" src="https://github.com/user-attachments/assets/4510ab90-362b-43bd-a69b-348b9a859ca2" />
 
 
 **Regression Models Performance:**
-<img width="1068" height="145" alt="image" src="https://github.com/user-attachments/assets/9d4d20fa-113a-4fdd-b517-26990d90a61a" />
-
+- <img width="1068" height="145" alt="image" src="https://github.com/user-attachments/assets/9d4d20fa-113a-4fdd-b517-26990d90a61a" />
 
 **Evaluate classification models using Accuracy, Precision, Recall, F1-score:**
 
