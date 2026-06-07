@@ -115,10 +115,35 @@ Model evaluation is the process of measuring how well the machine learning model
   <img width="460" height="86" alt="image" src="https://github.com/user-attachments/assets/fec41f81-67af-4a4d-9062-b0efc459fcc1" />
   <img width="362" height="77" alt="image" src="https://github.com/user-attachments/assets/f57974bc-e025-46e1-a704-c32d7c577bb6" />
 
+**Precision:**
+- Precision measures the proportion of true positive instances out of all predicted positive instances.
+- It is calculated as the number of true positive instances divided by the sum of true positive and false positive instances.
+  <img width="250" height="86" alt="image" src="https://github.com/user-attachments/assets/97247e38-9035-4d1e-9730-9a72c19a3f32" />
+
+**Recall:**
+- Recall or Sensitivity measures the proportion of true positive instances out of all actual positive instances.
+- It is calculated as the number of true positive instances divided by the sum of true positive and false negative instances.
+  <img width="210" height="72" alt="image" src="https://github.com/user-attachments/assets/df3d4b88-c9af-4c79-a2d4-1a5ed3c8640e" />
+
+**F1 Score:**
+- The F1 Score is the harmonic mean of precision and recall.
+- It is useful when we need a balance between precision and recall as it combines both into a single number.
+- A high F1 score means the model performs well on both metrics.
+- Its range is [0,1].
+  <img width="367" height="77" alt="image" src="https://github.com/user-attachments/assets/b4e4fd6f-ad08-4b38-bb4d-4449c45d42f0" />
+
+**AUC and ROC Curve:**
+- The ROC (Receiver Operating Characteristic) Area Under the Curve(AUC) score is a measure of the ability of a classifier to distinguish between positive and negative instances.
+- It is calculated by plotting the true positive rate against the false positive rate at different classification thresholds and calculating the area under the curve.
+  <img width="192" height="73" alt="image" src="https://github.com/user-attachments/assets/7fed2759-8d7c-4955-aa50-032f89fa8058" />
+  <img width="195" height="78" alt="image" src="https://github.com/user-attachments/assets/5bd944d6-5b6f-48ba-8be1-acda090acaaa" />
+  <img width="442" height="157" alt="image" src="https://github.com/user-attachments/assets/7fddbb49-3297-432b-852b-9818e80a7a3a" />
+
+**Classification Model Performance:**
+<img width="1560" height="145" alt="image" src="https://github.com/user-attachments/assets/715d602a-5eba-4a1b-8885-0eeffd4cf4c3" />
 
 
 
-- Compare model performance and select the best model.
 
 # Techologies Used:
 -  Python is used for programming, where data cleaning is done.
