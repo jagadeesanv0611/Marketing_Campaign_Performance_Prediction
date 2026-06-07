@@ -85,15 +85,15 @@ Model evaluation is the process of measuring how well the machine learning model
 **Mean Absolute Error (MAE):**
 - Average of absolute differences between actual and predicted values.
 - Difference between actual and predicted values is Residuals.
-<img width="472" height="327" alt="image" src="https://github.com/user-attachments/assets/0120d791-09ee-41b8-b9df-388b81c1a9f5" />
+<img width="396" height="287" alt="image" src="https://github.com/user-attachments/assets/9258db4b-fdcd-4b7b-9edc-794df9c80728" />
 
 **Mean Square Error (MSE):**
 - Average of squared differences between actual and predicted values.
-<img width="536" height="343" alt="image" src="https://github.com/user-attachments/assets/9b3c9088-6080-469d-96bc-d5eda2d92ee4" />
+<img width="356" height="277" alt="image" src="https://github.com/user-attachments/assets/44e5d1d6-7bf4-449b-b7ea-a3364cd04dd4" />
 
 **Root Mean Square Error (RMSE):**
 - Root Mean Squared Error (RMSE) is the square root of the mean of the squared errors.
-<img width="413" height="293" alt="image" src="https://github.com/user-attachments/assets/94f18070-41d8-4e22-a33b-3cdb970ccb25" />
+<img width="398" height="295" alt="image" src="https://github.com/user-attachments/assets/1b136ddd-936a-4080-b5c5-c3158d2101b0" />
 
 **R^2 Score:**
 - R-squared represents the proportion of variance in the target variable that is explained by the regression model.
@@ -101,7 +101,14 @@ Model evaluation is the process of measuring how well the machine learning model
 <img width="432" height="272" alt="image" src="https://github.com/user-attachments/assets/4510ab90-362b-43bd-a69b-348b9a859ca2" />
 
 **Regression Models Performance:**
-Linear Regression:
+Regression Model s	MAE	Training MSE	Testing MSE	RMSE	Training R2 Score	Testing R2 Score
+Linear Regression	161134.5324	59808207051.1577	58859539939.3675	242609.8513	0.7503	0.7525
+Decision Tree	19443.5169	1082516985.8699	1514202545.0340	38912.7556	0.9955	0.9936
+Random Forest	7058.1743	320089898.9595	441043711.0859	21001.0407	0.9987	0.9981
+Gradient Boosting	31025.5228	2278937644.2966	2471800446.3994	49717.2047	0.9905	0.9896
+Ada Boost	155379.1585	41485458894.5269	42159956071.6837	205328.8973	0.8268	0.8227
+<img width="1068" height="145" alt="image" src="https://github.com/user-attachments/assets/9d4d20fa-113a-4fdd-b517-26990d90a61a" />
+
 
 
  
@@ -109,7 +116,10 @@ Linear Regression:
 
 
 
-Evaluate classification models using Accuracy, Precision, Recall, F1-score
+**Evaluate classification models using Accuracy, Precision, Recall, F1-score:**
+
+
+
 - Compare model performance and select the best model.
 
 # Techologies Used:
