@@ -1,4 +1,4 @@
-# Project Title:
+<img width="472" height="327" alt="image" src="https://github.com/user-attachments/assets/4c9f7d35-5fa2-42e5-ba05-4257e5f6daf4" /># Project Title:
 Multi-Brand Marketing Campaign Performance Analysis and Prediction
 
 # Project Overview:
@@ -47,53 +47,69 @@ Model Building is the Process of training machine learning algorithms using the 
 # Model evaluation:
 Model evaluation is the process of measuring how well the machine learning models perform on unseen data.
 
-Regression:
+**Regression:**
 - Regression is a supervised learning technique used to predict continuous numerical values by learning relationships between input variables (features) and an output variable (target).
 
-Classification:
+**Classification:**
 - Classification is also a supervised learning technique where an algorithm is trained with labeled data to predict the category of new data.
 
-The Models used in this project,
+**The Models used in this project,**
 - Linear Regression, Logistic Regression, Decision Tree, Random Forest, Gradient Boost and AdaBoost.
 
-Linear Regression:
+**Linear Regression:**
 - Linear Regression is a fundamental supervised learning algorithm used to model the relationship between a dependent variable and one or more independent variables.
 - Its main focus is to find linear relationship between Inputs and Outputs, where predicts continuous values by fitting a straight line that represents the data.
 
-Logistic Regression:
+**Logistic Regression:**
 - Logistic Regression is a supervised machine learning classification algorithm used to predict the probability of a categorical outcome (such as Yes/No, Profit/Loss, Spam/Not Spam) based on one or more input features.
 
-Decision tree:
+**Decision tree:**
 - A decision tree is a supervised learning algorithm used for both classification and regression tasks. It has a hierarchical tree structure which consists of a root node, branches, internal nodes and leaf nodes.
 - It works like a flowchart that helps in making step-by-step decisions
 
-Random Forest:
+**Random Forest**:
 - Random Forest is an ensemble learning method that combines multiple decision trees to produce more accurate and stable predictions.
 - It can be used for both classification and regression tasks
 
-Adaboost:
+**Adaboost:**
 - AdaBoost (Adaptive Boosting) is a machine learning boosting technique used as an ensemble method to adjust the weights of training samples and combine multiple weak classifiers into a single strong classifier.
 - It is used for both Classification and regression models.
 
-Gradient Boost:
+**Gradient Boost:**
 - Gradient boosting is a machine learning technique that builds a highly accurate predictive model by combining multiple simple models (usually decision trees) one by one.
 - Instead of making independent predictions, each new model is specifically trained to fix the errors and mistakes made by the models that came before.
 - It is used  for both classification and regression tasks.
 
-Evaluate regression models using RMSE, MAE, R², MSE:
+**Evaluate regression models using RMSE, MAE, R², MSE:**
 
 **Mean Absolute Error (MAE):**
 - Average of absolute differences between actual and predicted values.
+- Difference between actual and predicted values is Residuals.
 <img width="472" height="327" alt="image" src="https://github.com/user-attachments/assets/0120d791-09ee-41b8-b9df-388b81c1a9f5" />
 
-Mean Square Error (MSE):
+**Mean Square Error (MSE):**
 - Average of squared differences between actual and predicted values.
 <img width="536" height="343" alt="image" src="https://github.com/user-attachments/assets/9b3c9088-6080-469d-96bc-d5eda2d92ee4" />
 
+**Root Mean Square Error (RMSE):**
+- Root Mean Squared Error (RMSE) is the square root of the mean of the squared errors.
+<img width="413" height="293" alt="image" src="https://github.com/user-attachments/assets/94f18070-41d8-4e22-a33b-3cdb970ccb25" />
+
+**R^2 Score:**
+- R-squared represents the proportion of variance in the target variable that is explained by the regression model.
+- It is a statistical measure that tells you how well a model explains and predicts future outcomes.
+<img width="432" height="272" alt="image" src="https://github.com/user-attachments/assets/4510ab90-362b-43bd-a69b-348b9a859ca2" />
+
+**Regression Models Performance:**
+Linear Regression:
+
+
+ 
 
 
 
-- Evaluate classification models using Accuracy, Precision, Recall, F1-score
+
+Evaluate classification models using Accuracy, Precision, Recall, F1-score
 - Compare model performance and select the best model.
 
 # Techologies Used:
