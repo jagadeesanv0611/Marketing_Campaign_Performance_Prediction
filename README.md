@@ -46,26 +46,35 @@ Model Building is the Process of training machine learning algorithms using the 
 
 # Model evaluation:
 Model evaluation is the process of measuring how well the machine learning models perform on unseen data.
-- Regression:
-  - Regression is a supervised learning technique used to predict continuous numerical values by learning relationships between input variables (features) and an output variable (target).
+
+Regression:
+- Regression is a supervised learning technique used to predict continuous numerical values by learning relationships between input variables (features) and an output variable (target).
+
 Classification:
 - Classification is also a supervised learning technique where an algorithm is trained with labeled data to predict the category of new data.
+
 The Models used in this project,
 - Linear Regression, Logistic Regression, Decision Tree, Random Forest, Gradient Boost and AdaBoost.
+
 Linear Regression:
 - Linear Regression is a fundamental supervised learning algorithm used to model the relationship between a dependent variable and one or more independent variables.
 - Its main focus is to find linear relationship between Inputs and Outputs, where predicts continuous values by fitting a straight line that represents the data.
+
 Logistic Regression:
 - Logistic Regression is a supervised machine learning classification algorithm used to predict the probability of a categorical outcome (such as Yes/No, Profit/Loss, Spam/Not Spam) based on one or more input features.
+
 Decision tree:
 - A decision tree is a supervised learning algorithm used for both classification and regression tasks. It has a hierarchical tree structure which consists of a root node, branches, internal nodes and leaf nodes.
 - It works like a flowchart that helps in making step-by-step decisions
+
 Random Forest:
 - Random Forest is an ensemble learning method that combines multiple decision trees to produce more accurate and stable predictions.
 - It can be used for both classification and regression tasks
+
 Adaboost:
 - AdaBoost (Adaptive Boosting) is a machine learning boosting technique used as an ensemble method to adjust the weights of training samples and combine multiple weak classifiers into a single strong classifier.
 - It is used for both Classification and regression models.
+
 Gradient Boost:
 - Gradient boosting is a machine learning technique that builds a highly accurate predictive model by combining multiple simple models (usually decision trees) one by one.
 - Instead of making independent predictions, each new model is specifically trained to fix the errors and mistakes made by the models that came before.
