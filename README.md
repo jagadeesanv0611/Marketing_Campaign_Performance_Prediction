@@ -46,8 +46,8 @@ Model Building is the Process of training machine learning algorithms using the 
 
 # Model evaluation:
 Model evaluation is the process of measuring how well the machine learning models perform on unseen data.
-Regression:
-- Regression is a supervised learning technique used to predict continuous numerical values by learning relationships between input variables (features) and an output variable (target).
+- Regression:
+  - Regression is a supervised learning technique used to predict continuous numerical values by learning relationships between input variables (features) and an output variable (target).
 Classification:
 - Classification is also a supervised learning technique where an algorithm is trained with labeled data to predict the category of new data.
 The Models used in this project,
