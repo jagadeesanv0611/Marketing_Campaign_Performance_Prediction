@@ -29,7 +29,8 @@ Exploratory Data Analysis (EDA) is used to summarize, visualize, and understand 
 **Overall Profit vs Loss count:**
 
 
-<img width="518" height="500" alt="newplot (2)" src="https://github.com/user-attachments/assets/2d2ae450-d6c5-4ccd-a78f-bbe543084311" />
+<img width="518" height="500" alt="newplot (2)" src="https://github.com/user-attachments/assets/2d2ae450-d6c5-4ccd-a78f-bbe543084311" /> <img width="518" height="500" alt="newplot (3)" src="https://github.com/user-attachments/assets/abdaddce-6635-4e8e-a7d2-7fd9eb3efa99" />
+
 
 - Identifying top-performing and low-performing campaigns which helps to understand successful campaign strategies and avoid ineffective ones.
 - Correlation analysis is to measure the relationship between different marketing campaign variables.
