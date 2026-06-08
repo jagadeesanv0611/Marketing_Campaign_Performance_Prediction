@@ -67,28 +67,15 @@ Feature Engineering is the process of creating and transforming variables to imp
 
 - Applying Label Encoding technique for Campaign, Campaign_Type, Customer_Segment, Target_Audience and Language where text format is converted into numbers.
 
-    CAMPAIGN_MAP        = {"Nykaa": 0,
-                           "Purplle": 1,
-                            "Tira": 2}
-    CAMPAIGN_TYPE_MAP   = {"Email": 0,
-                           "Influencer": 1,
-                           "Paid Ads": 2,
-                           "SEO": 3,
-                           "Social Media": 4}
-    TARGET_AUDIENCE_MAP = {"College Students": 0,
-                            "Premium Shoppers": 1,
-                            "Tier 2 City Customers": 2,
-                           "Working Women": 3,
-                            "Youth": 4}
-    LANGUAGE_MAP        = {"Bengali": 0,
-                           "English": 1,
-                           "Hindi": 2,
-                           "Tamil": 3}
-    CUSTOMER_SEGMENT_MAP = {"College Students": 0,
-                            "Premium Shoppers": 1,
-                            "Tier 2 City Customers": 2,
-                            "Working Women": 3,
-                             "Youth": 4}
+- CAMPAIGN_MAP        = {"Nykaa": 0, "Purplle": 1, "Tira": 2}
+
+- CAMPAIGN_TYPE_MAP   = {"Email": 0,"Influencer": 1,"Paid Ads": 2,"SEO": 3, "Social Media": 4}
+
+- TARGET_AUDIENCE_MAP = {"College Students": 0, "Premium Shoppers": 1, "Tier 2 City Customers": 2, "Working Women": 3,"Youth": 4}
+
+- LANGUAGE_MAP        = {"Bengali": 0, "English": 1, "Hindi": 2, "Tamil": 3}
+
+- CUSTOMER_SEGMENT_MAP = {"College Students": 0, "Premium Shoppers": 1, "Tier 2 City Customers": 2, "Working Women": 3, "Youth": 4}
   
 - Create Profit_Loss feature which serves as the target variable for the classification model, helping predict whether a campaign will be profitable or not.
 
