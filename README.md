@@ -82,6 +82,8 @@ Feature Engineering is the process of creating and transforming variables to imp
 # Model Building:
 Model Building is the Process of training machine learning algorithms using the prepared dataset to predict campaign performance
 -  Before building the model, the dataset is splitted into 80% for training set and 20% for testing set to evaluate model performance.
+-  X_cls_train, X_cls_test, y_cls_train, y_cls_test = train_test_split(X, y, test_size=0.2, random_state = 42)
+
 -  Builded regression models to predict Revenue based on Campaign features.
 -  Builded classification models to predict Profit/Loss using  New Calculated ROI feature.
 -  Trained the models using appropriate algorithms such as Linear Regression, Logistic Regression, Decision Tree, Random Forest, Gradient Boost and AdaBoost.
