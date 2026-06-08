@@ -25,7 +25,10 @@ Data preprocessing is the process of cleaning and preparing raw data so that it 
 
 # Exploratory Data Analysis (EDA):
 Exploratory Data Analysis (EDA) is used to summarize, visualize, and understand the dataset. It helps identify patterns, trends, and relationships among variables that influence campaign performance.
-- Analyze campaign performance across each brands to identify the strongest and weakest performing brands.
+
+**Overall Profit vs Loss count:**
+<img width="518" height="500" alt="newplot (2)" src="https://github.com/user-attachments/assets/2d2ae450-d6c5-4ccd-a78f-bbe543084311" />
+
 - Identifying top-performing and low-performing campaigns which helps to understand successful campaign strategies and avoid ineffective ones.
 - Correlation analysis is to measure the relationship between different marketing campaign variables.
 - Analyze marketing channels which helps to allocate marketing budgets to the most effective channels.
