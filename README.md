@@ -30,6 +30,10 @@ Exploratory Data Analysis (EDA) is used to summarize, visualize, and understand 
 
 <img width="1342" height="575" alt="image" src="https://github.com/user-attachments/assets/287d34b5-3633-41b3-964d-e0fcfa773e85" />
 
+****Overall ROI by each Campaign type:****
+
+<img width="1227" height="697" alt="image" src="https://github.com/user-attachments/assets/99a0eb1a-672f-4f43-9d5b-ef7b15de4f09" />
+
 
 ****Overall Profit vs Loss:****
 
