@@ -13,6 +13,23 @@ The objective of this project is to design and implement a Marketing Campaign Pe
 - Model Building
 - Model Evaluation
 
+# Techologies Used:
+-  Python is used for programming, where data cleaning is done.
+-  Pandas is a python library, used to read the raw data file and convert it into data frame for processing.
+-  sklearn is for model selection, preprocessing, metrics, linearmodel for linear and logistic regression, tree for decision tree regressor and classifier, ensemble for Randomforest, Gradient Boosting and AdaBoost for both Regressor and Classifier.
+-  imblearn for Over sampling to handle class imbalance.
+-  joblib is used to dumb the model file as Pkl format.
+
+# Dataset:
+Source : Marketing Campaign Performance Prediction Datasets:
+-  nykaa_campaign_data_with_nulls.csv
+-  purplle_campaign_data_with_nulls.csv
+-  tira_campaign_data_with_nulls.csv
+
+# Project Structure:
+<img width="577" height="286" alt="image" src="https://github.com/user-attachments/assets/667d68e9-62a4-4d73-a045-5a0b0737c8f9" />
+
+
 # Data Collection:
 Data collection is to gather and organize the raw data in a structured format, making it ready for preprocessing, analysis, feature engineering, and machine learning model development.
 
@@ -42,8 +59,6 @@ Exploratory Data Analysis (EDA) is used to summarize, visualize, and understand 
 ****Correlation Analysis:****
 
 <img width="1052" height="900" alt="newplot (5)" src="https://github.com/user-attachments/assets/2ab1745f-fd52-4889-a7b9-3e033ac1621f" />
-
-
 
 
 # Feature Engineering:
@@ -98,31 +113,40 @@ Model evaluation is the process of measuring how well the machine learning model
 
 **Evaluate regression models using RMSE, MAE, R², MSE:**
 
-**Mean Absolute Error (MAE):**
+****Mean Absolute Error (MAE):****
 - Average of absolute differences between actual and predicted values.
 - Difference between actual and predicted values is Residuals.
   <img width="396" height="287" alt="image" src="https://github.com/user-attachments/assets/9258db4b-fdcd-4b7b-9edc-794df9c80728" />
 
 
-**Mean Square Error (MSE):**
+****Mean Square Error (MSE):****
 - Average of squared differences between actual and predicted values.
   <img width="356" height="277" alt="image" src="https://github.com/user-attachments/assets/44e5d1d6-7bf4-449b-b7ea-a3364cd04dd4" />
 
 
-**Root Mean Square Error (RMSE):**
+****Root Mean Square Error (RMSE):****
 - Root Mean Squared Error (RMSE) is the square root of the mean of the squared errors.
   <img width="398" height="295" alt="image" src="https://github.com/user-attachments/assets/1b136ddd-936a-4080-b5c5-c3158d2101b0" />
 
 
 
-**R^2 Score:**
+****R^2 Score:****
 - R-squared represents the proportion of variance in the target variable that is explained by the regression model.
 - It is a statistical measure that tells you how well a model explains and predicts future outcomes.
   <img width="432" height="272" alt="image" src="https://github.com/user-attachments/assets/4510ab90-362b-43bd-a69b-348b9a859ca2" />
 
 
-**Regression Models Performance:**
+****Regression Models Performance:****
   <img width="1068" height="145" alt="image" src="https://github.com/user-attachments/assets/9d4d20fa-113a-4fdd-b517-26990d90a61a" />
+
+
+****Model Comparison with R2 Score:****
+<img width="681" height="596" alt="image" src="https://github.com/user-attachments/assets/6d1c1af8-3e8d-494c-af2c-d5606ea68667" />
+
+
+****Random Forest Actual vs Predicted Revenue:****
+  <img width="1331" height="710" alt="image" src="https://github.com/user-attachments/assets/43a88e8a-a33d-4b45-8702-e5e7b3fbb03a" />
+
 
 **Evaluate classification models using Accuracy, Precision, Recall, F1-score:**
 **Accuracy:**
@@ -156,28 +180,18 @@ Model evaluation is the process of measuring how well the machine learning model
   
   <img width="442" height="157" alt="image" src="https://github.com/user-attachments/assets/7fddbb49-3297-432b-852b-9818e80a7a3a" />
 
+
 **Classification Model Performance:**
   <img width="1719" height="157" alt="image" src="https://github.com/user-attachments/assets/89830899-1e63-4cbd-8f14-7aa4cca45512" />
 
 
+****Model Comparison of Classification:****
+<img width="675" height="602" alt="image" src="https://github.com/user-attachments/assets/9feba31d-69fd-4ce0-9a10-9f2f50ed0293" />
 
 
 
-# Techologies Used:
--  Python is used for programming, where data cleaning is done.
--  Pandas is a python library, used to read the raw data file and convert it into data frame for processing.
--  sklearn is for model selection, preprocessing, metrics, linearmodel for linear and logistic regression, tree for decision tree regressor and classifier, ensemble for Randomforest, Gradient Boosting and AdaBoost for both Regressor and Classifier.
--  imblearn for Over sampling to handle class imbalance.
--  joblib is used to dumb the model file as Pkl format.
 
-# Dataset:
-Source : Marketing Campaign Performance Prediction Datasets:
--  nykaa_campaign_data_with_nulls.csv
--  purplle_campaign_data_with_nulls.csv
--  tira_campaign_data_with_nulls.csv
 
-# Project Structure:
-<img width="577" height="286" alt="image" src="https://github.com/user-attachments/assets/667d68e9-62a4-4d73-a045-5a0b0737c8f9" />
 
 
 
