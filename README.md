@@ -26,9 +26,15 @@ Data preprocessing is the process of cleaning and preparing raw data so that it 
 # Exploratory Data Analysis (EDA):
 Exploratory Data Analysis (EDA) is used to summarize, visualize, and understand the dataset. It helps identify patterns, trends, and relationships among variables that influence campaign performance.
 
-****Overall Profit vs Loss count:****
+****Overall Revenue by Each Brand:****
+
+<img width="1342" height="575" alt="image" src="https://github.com/user-attachments/assets/287d34b5-3633-41b3-964d-e0fcfa773e85" />
+
+
+****Overall Profit vs Loss:****
 
 <img width="1353" height="595" alt="image" src="https://github.com/user-attachments/assets/0a257b99-de4d-4058-9e89-d31a32e02100" />
+
 
 
 
