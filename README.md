@@ -182,15 +182,18 @@ Model evaluation is the process of measuring how well the machine learning model
 
 
 **Classification Model Performance:**
+
   <img width="1719" height="157" alt="image" src="https://github.com/user-attachments/assets/89830899-1e63-4cbd-8f14-7aa4cca45512" />
 
 
 ****Model Comparison of Classification:****
-<img width="675" height="602" alt="image" src="https://github.com/user-attachments/assets/9feba31d-69fd-4ce0-9a10-9f2f50ed0293" />
+
+  <img width="675" height="602" alt="image" src="https://github.com/user-attachments/assets/9feba31d-69fd-4ce0-9a10-9f2f50ed0293" />
 
 
+****Confusion Matrix:****
 
-
+   <img width="1322" height="603" alt="image" src="https://github.com/user-attachments/assets/170d547b-51f3-427e-ba83-c9762766f49e" />
 
 
 
