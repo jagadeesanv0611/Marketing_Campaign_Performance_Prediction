@@ -62,14 +62,14 @@ Exploratory Data Analysis (EDA) is used to summarize, visualize, and understand 
 
 
 - Correlation with Market Campaign: 
-- Revenue             1.000000
-- Conversions         0.814716
-- New_Calc_ROI        0.758087
-- Leads               0.748316
-- Clicks              0.664261
-- Engagement_Score    0.522004
-- Impressions         0.461396
-- Acquisition_Cost   -0.377241
+- Revenue                   1.000000
+- Conversions               0.814716
+- New_Calc_ROI              0.758087
+- Leads                     0.748316
+- Clicks                    0.664261
+- Engagement_Score          0.522004
+- Impressions               0.461396
+- Acquisition_Cost         -0.377241
 
 # Feature Engineering:
 Feature Engineering is the process of creating and transforming variables to improve the performance of machine learning models
