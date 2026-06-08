@@ -35,14 +35,12 @@ Exploratory Data Analysis (EDA) is used to summarize, visualize, and understand 
 
 <img width="1353" height="595" alt="image" src="https://github.com/user-attachments/assets/0a257b99-de4d-4058-9e89-d31a32e02100" />
 
+****Correlation Analysis:****
+
+<img width="1052" height="900" alt="newplot (5)" src="https://github.com/user-attachments/assets/2ab1745f-fd52-4889-a7b9-3e033ac1621f" />
 
 
 
-
-
-- Identifying top-performing and low-performing campaigns which helps to understand successful campaign strategies and avoid ineffective ones.
-- Correlation analysis is to measure the relationship between different marketing campaign variables.
-- Analyze marketing channels which helps to allocate marketing budgets to the most effective channels.
 
 # Feature Engineering:
 Feature Engineering is the process of creating and transforming variables to improve the performance of machine learning models
